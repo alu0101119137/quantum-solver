@@ -4,7 +4,7 @@ readme = open("./README.md", "r")
 
 setuptools.setup(
     name = "quantumSolverTool",
-    version = "0.0.2",
+    version = "0.0.4",
     author = "Andrea Hernández",
     author_email = "alu0101119137@ull.edu.es",
     description = "A little quantum toolset developed using Qiskit",
@@ -32,6 +32,7 @@ setuptools.setup(
         'werkzeug>=0.11.15',
         'oauthlib>=3.0.0',
         'pytz>=2017.3',
+        'setuptools',
         'flask',
         'flask-cors',
         'APScheduler',

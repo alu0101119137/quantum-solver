@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: quantumSolverTool
-Version: 0.0.2
+Version: 0.0.4
 Summary: A little quantum toolset developed using Qiskit
 Home-page: https://github.com/alu0101119137/quantum-solver
 Author: Andrea Hernández
