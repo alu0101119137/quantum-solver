@@ -4,7 +4,7 @@ readme = open("./README.md", "r")
 
 setuptools.setup(
     name = "quantumSolverTool",
-    version = "0.0.4",
+    version = "0.0.5",
     author = "Andrea Hernández",
     author_email = "alu0101119137@ull.edu.es",
     description = "A little quantum toolset developed using Qiskit",
