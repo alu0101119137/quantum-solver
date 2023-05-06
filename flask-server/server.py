@@ -224,4 +224,4 @@ scheduler.start()
 
 if __name__ == "__main__":
   app.config['USERS'] = {}
-  app.run(host="192.168.0.200", debug=True, port=3001)
+  app.run(host="192.168.0.0", debug=True, port=3001)
