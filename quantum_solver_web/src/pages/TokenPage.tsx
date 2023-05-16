@@ -19,6 +19,7 @@ export function TokenPage() {
       body: JSON.stringify({token, guest_mode_flag})
     });
     const data = await result.json();
+    console.log(API);
     console.log('sendToken:', data);
     if (data['err']) {
       alert(data['msg']);
