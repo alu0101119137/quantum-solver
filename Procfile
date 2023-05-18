@@ -1,1 +1,1 @@
-web: cd quantum_solver_web && npm start
+web: cd quantum_solver_web && npm i && npm start
