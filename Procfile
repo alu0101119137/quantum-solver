@@ -1,0 +1,1 @@
+web: cd quantum_solver_web && npm start
